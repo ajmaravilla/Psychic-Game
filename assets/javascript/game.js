@@ -1,4 +1,4 @@
-//Given the user chooses to play the psyckic game
+//Given the user chooses to play the psychic game
 //And Given the page is rendered
     var wins = 0;
     var losses = 0;
